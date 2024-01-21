@@ -10,7 +10,8 @@ yarn add ios-status-bar
 ## Usage
 
 '''jsx
-import IosStatusBar from "ios-status-bar"
+
+    import IosStatusBar from "ios-status-bar"
 
     <IOSStatusBar color={green} paddingBottom={10} textColor={light}/>
 
