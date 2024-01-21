@@ -16,7 +16,7 @@ import IosStatusBar from "ios-status-bar";
 
 **color:** default: "rgba(0, 0, 0, 0)": Background color
 
-**paddingBottom:** default: 0: Bottom padding
+**paddingBottom:** default 0: Bottom padding
 
 **textColor:** default: "dark": Text color prop: light | dark.
 
