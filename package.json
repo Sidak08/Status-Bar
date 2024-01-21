@@ -1,0 +1,32 @@
+{
+  "name": "ios-status-bar",
+  "version": "1.0.1",
+  "description": "An easy was to change background colour for IOS status bar with React Native and Expo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sidak08/Status-Bar.git"
+  },
+  "keywords": [
+    "React-Native",
+    "Expo",
+    "Status-bar",
+    "ios-status-bar",
+    "ios-notch",
+    "expo-go",
+    "status bar"
+  ],
+  "author": "Sidak Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sidak08/Status-Bar/issues"
+  },
+  "homepage": "https://github.com/Sidak08/Status-Bar#readme",
+  "dependencies": {
+    "expo-status-bar": "^1.11.1",
+    "react-native": "^0.73.2"
+  }
+}
