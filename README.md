@@ -1,19 +1,22 @@
 ## Ios-status-bar
 
-#### A easy customizable React Native package for changing color in the status bar or behind the notch for ios.
+A simple package for changing IOS status bar color.
 
 ## Installation
 
-npm install your-react-native-package-name
-yarn add your-react-native-package-name
+npm install ios-status-bar
+yarn add ios-status-bar
 
 ## Usage
 
-import IOSStatusBar from "ios-status-bar"
+<code> import IOSStatusBar from "ios-status-bar"
 <IOSStatusBar color={green} paddingBottom={10} textColor={light}/>
-color (optional, default: "rgba(0, 0, 0, 0)"): Background color of the top bar.
-paddingBottom (optional, default: 0): Bottom padding of the top bar.
-textColor (optional, default: "dark"): Text color of the status bar.
+</code>
+color: optional, default: "rgba(0, 0, 0, 0)": Background color
+paddingBottom: optional, default: 0: Bottom padding
+textColor: optional, default: "dark": Text color prop light|dark.
+
+</p>
 
 ## Contributing
 
