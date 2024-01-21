@@ -9,9 +9,11 @@ yarn add ios-status-bar
 
 ## Usage
 
-<code> import IOSStatusBar from "ios-status-bar"
+''jsx
+import IOSStatusBar from "ios-status-bar"
 <IOSStatusBar color={green} paddingBottom={10} textColor={light}/>
-</code>
+''
+
 color: optional, default: "rgba(0, 0, 0, 0)": Background color
 paddingBottom: optional, default: 0: Bottom padding
 textColor: optional, default: "dark": Text color prop light|dark.
